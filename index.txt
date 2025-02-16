@@ -1,0 +1,108 @@
+<html>
+<head>
+<title>
+hoja de vida
+</title>
+</head>
+<body>
+
+<br><br>
+<div align="center">
+<img src="imagenes/mynor.jpg" alt="ese soy yo"" height="200" width="200">
+<br>
+<h1 >Mynor Esaú Larios cho  </h1>
+</div>
+<hr size="25" noshade><br>
+<div>
+<h1>INFORMACION PERSONAL</h1></div>
+
+<b><u>NOMBRE<br>
+Mynor Esaú Larios cho</u><br>
+
+<b><u>FECHA DE NACIMIENTO:<br>
+12/07/2005</u></b><br>
+
+<b><u>NACIONALIDAD:<br>
+Suiza</u></b><br>
+
+<b><u>NUMERO TELEFONICO:<br>
+502+ 51834326</u></b><br>
+
+<b><u>CORREO ELCTRONICO:<br>
+mynorlarios23@gamil.com</u></b><br>
+
+<b><u>DPI:<br>
+3252 4563 0101</u></b><br>
+
+<b><u>ESTADO CIVIL:<br>
+<u>Soltero casi comprometido</u></b><br>
+<hr size ="25" noshade><br>
+ 
+<h1>
+INFORAMCION ACADEMICA
+</h1>
+<br>
+<b>
+Primaria:         </b><br>
+<b><u> Escuela Oficial Rural Mixta Telma arroyo</u><br>
+<b>Basicos:          </b><br>
+<b> <u>Instituto I.P.C </u><br>
+<b>Diversificado:         
+</b><br><u>Instituto profecional de computacion IPC</u><br> 
+<hr size ="25" noshade><br>
+
+<h1>
+Cualidades:
+</h1>
+<br>
+<b>-trabajo en equipo. </b><br>
+<b><i>-Trabajo en equipo. </i><br>
+<b>-Resolucion de problemas. </b><br>
+<b><i>-Liderazgo. </i><br>
+<b><i>-Honesto. </i><br>
+
+
+<hr size ="25" noshade><br>
+ 
+<h1>
+REFERENCIAS PERSONALES
+</h1>
+ <table border="2">
+        <tr>
+            <th>Nombre</th>
+            <th>NO. Telefonico</th>
+            <th>Foto</th>
+            
+        </tr>
+        <tr>
+            <td>Edgar Arana</td>
+            <td>+502 3836 7483</td>
+            <td><img src="imagenes\edgar.jpg" alt="el pansas" heigth="100" width="100"></td>
+        </tr>
+        <tr>
+            <td>Jared Guerra</td>
+            <td>+502 3689 8658</td>
+            <td><img src="imagenes\jared.jpg" alt="el guerra" heigth="100" width="100"></td>
+        </tr>
+        <tr>
+            <td>Cristofer solares</td>
+            <td>+502 3673 9533</td>
+            <td><img src="imagenes\acencio.jpg" alt="el perrito" heigth="100" width="100"></td>
+        </tr>
+<tr>
+            <td>Milton Marroquin</td>
+            <td>+502 4158 5992</td>
+            <td><img src="imagenes\milton.jpg" alt="el volumen en vida" heigth="100" width="100"></td>
+        </tr>
+
+<tr>
+            <td>Bryan Gutierrez</td>
+            <td>+502 3673 9533</td>
+            <td><img src="imagenes\pollo.jpg" alt="lacarmen" heigth="100" width="100"></td>
+        </tr>
+
+
+
+</body>
+
+</html>
